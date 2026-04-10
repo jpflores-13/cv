@@ -2,8 +2,8 @@
 
 .aside {
     left: 0;
-    background-color: #13294B; /* fallback color */
-    background-color: rgba(19, 41, 75, 0.12);
+    background-color: #e6ae6c; /* fallback color */
+    background-color: rgba(230, 174, 108, 0.6);
 }
 
 :root{
@@ -49,7 +49,7 @@ a {
 }
 
 .details h3 {
-    margin-top: 5pt;
+    margin-top: 10pt;
     font-family: "Barlow";
     font-weight: 600;
 }
@@ -148,12 +148,12 @@ div.date {
 }
 
 .blocks>div{
-    padding-top: 6pt;
+    padding-top: 13pt;
 }
 
 .main-block{
     position: relative;
-    top: -10pt;
+    top: -20pt;
 }
 
 
@@ -169,7 +169,7 @@ div.date {
 }
 
 [data-id="main"] ul{
-    padding-top: 4pt;
+    padding-top: 10pt;
 }
 
 .fa-location-dot:before, .fa-map-marker-alt:before {
@@ -200,7 +200,7 @@ div#awards.section.level2 li {
 }
 
 div#graduate-research-assistant.section.level3.blocks {
-    height: auto;
+    height: 115px;
 }
 
 img {

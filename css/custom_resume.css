@@ -34,11 +34,11 @@
   width: var(--sidebar-width) !important;
   padding-left: 0.75rem;
   padding-right: 0;
-  padding-top: 1rem;
+  padding-top: 2rem;
 }
 
 .aside .level2 {
-  margin-top: 0.15in;
+  margin-top: 0.315in;
 }
 
 .aside p {
